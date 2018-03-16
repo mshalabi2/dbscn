@@ -93,7 +93,7 @@ int main(int argc, char *argv[]){
         return 0;
 }
 
-
+//I
 int datagrabber(FILE *fptr, double *storage)
 {
 	int i=0,j=0;
